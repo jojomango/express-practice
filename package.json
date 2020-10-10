@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "practice express build REST API",
   "scripts": {
+    "start": "node hello-world.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
